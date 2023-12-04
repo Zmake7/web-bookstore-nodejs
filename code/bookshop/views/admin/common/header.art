@@ -13,8 +13,8 @@
 				<span class="caret"></span>
             </span>
             <ul class="dropdown-menu">
-                <li><a href="user-edit.html">个人资料</a></li>
-                <li><a href="/admin/logout">退出登录</a></li>
+                <li><a href="user-edit.html">personal information</a></li>
+                <li><a href="/admin/logout">sign out</a></li>
             </ul>
         </div>
     </div>
